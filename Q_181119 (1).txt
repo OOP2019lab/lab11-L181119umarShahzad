@@ -1,0 +1,6 @@
+Question 6
+first and the last name is kept private so that it can not be accessed by the other classes. Age is protected so that changes can be made to it.
+
+b) no error. 
+
+c)I didn't get any error XD.
